@@ -17,7 +17,12 @@
 
 ## Installation
 ```
-  * pip install requests pystyle==1.5
+  * pip install -r requirements.txt
+```
+
+## Start Bot
+```
+  * python main.py
 ```
 
 ## Video Tutorial:
